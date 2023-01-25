@@ -7,6 +7,6 @@
   "private": true,
   "devDependencies": {
     "@angular-builders/bazel": "workspace:*",
-    "@angular/cli": "15.0.1"
+    "@angular/cli": "15.1.3"
   }
 }
